@@ -1,0 +1,23 @@
+{
+  "name": "bower-fundamentals-rotate",
+  "version":"0.0.1",
+  "authors": [
+    "Alex <alexmanso27@hotmail.com>"
+  ],
+  "description": "It is just an exercise to use everything we have learned with bower",
+  "main": "rotate.js",
+  "moduleType": [],
+  "keywords": [
+    "rotate",
+    "bower"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
